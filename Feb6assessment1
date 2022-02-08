@@ -1,0 +1,7 @@
+
+Kilometers to Meter, Centimeter, and Millimeter
+kilometers = float(input("Please Enter the Kilometers = "))
+
+meter = kilometers * 1000 centimeter = kilometers * 100000 millimeter = kilometers * 1000000
+
+print("%.2f Kilometers = %.2f Meters" %(kilometers, meter)) print("%.2f Kilometers = %.2f Centimeters" %(kilometers, centimeter)) print("%.2f Kilometers = %.2f Millimeters" %(kilometers, millimeter))
